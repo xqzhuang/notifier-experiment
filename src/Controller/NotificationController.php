@@ -20,7 +20,7 @@ class NotificationController extends AbstractController
     {
         $sms = new SmsMessage(
         // the phone number to send the SMS message to
-            '+48539857802',
+            '+3847398478',
             // the message
             'A new login was detected!'
         );
